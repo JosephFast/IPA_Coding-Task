@@ -1,0 +1,22 @@
+\begin{center}
+\footnotesize
+\newcolumntype{Y}{>{\raggedleft\arraybackslash}X}
+\begin{tabularx} {10cm} {@{} l Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y Y@{}} \\
+\toprule
+year & \multicolumn{2}{c}{Sum} & \multicolumn{3}{c}{Mean} \\
+\cmidrule(l{.75em}){2-6} 
+&Bachelor Granting Institutions&Public Institutions&Average Enrollment&Average Total State/Local Aid&Average TotalFederal Aid \\
+\midrule
+2010 (16\%)&45&48&466&852,731&1,204,320 \\
+2011 (16\%)&45&48&446&898,389&1,069,766 \\
+2012 (16\%)&45&48&417&890,042&992,164 \\
+2013 (16\%)&46&48&412&898,380&982,668 \\
+2014 (16\%)&46&48&417&895,951&990,115 \\
+2015 (16\%)&46&48&458&1,027,001&1,065,140 \\
+\bottomrule
+\addlinespace[.75ex]
+\end{tabularx}
+\par
+\scriptsize{\emph{Source: }Data_Main}
+\normalsize
+\end{center}
