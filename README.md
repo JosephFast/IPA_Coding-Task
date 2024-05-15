@@ -25,4 +25,5 @@ Data Folder
 DoFiles Folder 
 
 Assembling the Data.do — turning the raw data into the cleaned Data_Main.dta 
+
 Analysis.do — Creating all the Outputs and creates the Final Data_Analaysis.dta
